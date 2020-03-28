@@ -1,6 +1,4 @@
-var drops = []
-var letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcdefghijklmnopqrstuvexyz"
-// other sample characters : !@#$%^&*()<>?/`~{}[]\|,.
+var drops = [];
 
 function setup()
 {
