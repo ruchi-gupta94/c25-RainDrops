@@ -11,7 +11,7 @@ Now, call the class drop.js to create a repeated loop for each raindrop. and mak
 
 The output should look like: 
 
-![](/Users/vishnupriya/Desktop/Screenshot 2020-04-06 at 10.12.05 PM.png)
+https://user-images.githubusercontent.com/59869563/78583927-1c441a80-7855-11ea-8998-0baf5cb4fd52.png
 
 To create a continuous effect add a rage to my background, from 0 to 100,
 
