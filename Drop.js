@@ -1,7 +1,7 @@
 class Drop{
     constructor(){
         this.x = rand(0,width);
-        this.y= rand(-80,height+80);
+        this.y= rand(0,height);
         this.update();
     }
     
@@ -17,7 +17,7 @@ class Drop{
         this.y+=20;
         
         if(this.y>height+80){
-            this.y = rand(-80,20);
+            this.y = rand(0,20);
             this.x = rand(0,width);
         }
         this.draw();
