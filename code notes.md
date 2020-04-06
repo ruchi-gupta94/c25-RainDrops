@@ -17,5 +17,5 @@ To create a continuous effect add a rage to my background, from 0 to 100,
 
 The output will look like, 
 
-![](/Users/vishnupriya/Desktop/Screenshot 2020-04-06 at 10.16.52 PM.png)
+https://user-images.githubusercontent.com/59869563/78583934-1f3f0b00-7855-11ea-86a6-f5a0f03fe5f2.png
 
